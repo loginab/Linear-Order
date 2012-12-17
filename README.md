@@ -10,4 +10,3 @@ The structure supports the following operations:-
 - void delete_o(o_t *ord, key_t a) deletes the key a from the ordered set
 - int is_before(o_t *ord, key_t a, key_t b) returns 1 if key a occurs before key b in the ordered set, 0 else.
 Here key_t is a number type that allows comparisons.
-=======================================================================================================================
